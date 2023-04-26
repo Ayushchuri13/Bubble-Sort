@@ -8,7 +8,9 @@ The Bubble Sort algorithm is used to sort the array in ascending order.
 The function implements two loops, one to iterate over each element in the array and another to compare adjacent elements and swap them if necessary.
 The sorting process continues until all the elements are sorted in ascending order. Finally, the function outputs the sorted array.
 The main function initializes an integer array with 5 unsorted elements and calls the Bubble Sort function to sort the array in ascending order.
-image
+
+![image](https://user-images.githubusercontent.com/125973911/234499342-ef060176-57f1-4ce9-925b-2558f35353f5.png)
+
 
 Advantages:
 Bubble Sort is simple to implement and understand, making it a good choice for small arrays.
